@@ -40,7 +40,7 @@
                 <addClasspath>true</addClasspath>
              </manifest>
              <manifestEntries>
-                <Implementation-Version>${build.number}</Implementation-Version>
+                <!--<Implementation-Version>${build.number}</Implementation-Version>-->
              </manifestEntries>
           </archive>
         </configuration>
